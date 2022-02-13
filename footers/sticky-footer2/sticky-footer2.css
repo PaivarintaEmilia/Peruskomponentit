@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  min-height: 100vh;
+  position: relative;
+  padding-bottom: 50px; /* Sama kuin footerin korkeus, puskee sisällön pois footerin alta */
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  height: 50px;
+  background: yellow;
+}
+
+.content {
+  background: red;
+}
