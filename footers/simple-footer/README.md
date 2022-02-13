@@ -1,0 +1,1 @@
+Tiedosto sisältää yksinkertaisen footerin. 
